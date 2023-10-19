@@ -3,6 +3,8 @@
 "name": "uncwell_point2_4326_GeoJSON",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -79.051218091254981, 35.912062299523974 ] } }
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -79.049689920884646, 35.910782739008809 ] } },
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -79.051218091254981, 35.912062299523974 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ -79.049970593548778, 35.911292197154658 ] } }
 ]
 }
