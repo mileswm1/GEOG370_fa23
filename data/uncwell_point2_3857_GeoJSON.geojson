@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "uncwell_point2_3857_GeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -8799941.344506520777941, 4288528.016719248145819 ] } }
+]
+}
