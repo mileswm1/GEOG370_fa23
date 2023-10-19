@@ -1,1 +1,1 @@
-# GEOG370_fa23
+# GEOG 370 Fall 2023
